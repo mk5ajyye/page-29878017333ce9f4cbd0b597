@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "371d6ad4641a16f718ceb612",
+  "owner": "mk5ajyye",
+  "repo": "page-29878017333ce9f4cbd0b597",
+  "title": "oixCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "29878017333ce9f4cbd0b597",
+      "a": "oixCloud",
+      "b": "稳定全球clash加速器",
+      "entity": "oixCloud",
+      "brand": "oixCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7f2bcf84523ce6676bed12c6c13513d3173ca5c2b30879a76741f0ccd9cb0289",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，oixCloud 提供从基础版到团队版的三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，年付方案折算后投入更少。基础版含每月 100GB 流量并支持 3 台设备；旗舰版提升至每月 300GB、5 台设备与 IPLC 专线游戏加速优化；团队版则提供每月 1000GB、20 台设备及支持企业定制路由。选择时可按日常使用人数与流量消耗匹配套餐，再通过 Clash 等客户端导入订阅开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅 按流量选套餐",
+          "AI_HERO_INTRO": "oixCloud 为需要在多台设备上使用加速服务的用户提供分层订阅方案。基础版适合个人轻量使用，旗舰版平衡流量与专线体验，团队版面向人数较多的协作场景。按设备数量与月度流量挑选套餐，即可在常用客户端中完成配置。",
+          "AI_VISUAL_TITLE": "oixCloud 套餐与节点",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "年付价格低于按月支付合计",
+          "AI_FEATURES_TITLE": "选择与适配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度判断合适的套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用手机、电脑与平板数量对应选择。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 覆盖视频与游戏，1000GB 满足团队多终端日常消耗。",
+          "AI_FEATURE_TITLE_3": "年付周期更省",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，折算后比按月支付节省两个月以上费用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按操作系统和使用习惯挑选 Clash 客户端，再导入订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB；旗舰版 ¥35/月含 300GB 与 IPLC 专线；团队版 ¥85/月含 1000GB 和定制路由。年付分别为 ¥150、¥350 与 ¥850。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端配置的三步流程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，再从基础版、旗舰版、团队版中匹配对应档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，旗舰版的 IPLC 线路更适合对延迟敏感的游戏或通话场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在 Clash 等客户端中按文档导入订阅地址，同步节点后即可选择线路使用。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅配置。",
+          "AI_CLOSING_TITLE": "按需选档 顺畅使用",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定 oixCloud 套餐，再完成客户端订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合日常网页与轻度视频；旗舰版 300GB 带 IPLC 专线和流媒体解锁；团队版 1000GB 适合多设备和团队共享。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。超出数量可升级套餐或为额外设备单独准备订阅。",
+          "AI_FAQ_ANSWER_3": "在客户端中获取订阅链接后导入，系统代理、Clash、v2rayN、Shadowrocket 等客户端均提供订阅导入入口，按对应文档操作即可。",
+          "AI_FAQ_ANSWER_4": "月付灵活，年付更划算。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，都按年一次性支付，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线与游戏加速优化，并支持 7x24 优先工单；团队版有 VIP 高带宽节点与专属客户经理服务。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的加速线路有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dyikglv.cn",
+    "host": "dyikglv.cn"
+  },
+  "file_hashes": {
+    "index.html": "5871af2ac67cec49a200079c584245cc4078045028448978e0bff19da46961c9",
+    "sitemap.xml": "50edc5f8556ef5e8107762205b978d2e9432f7fa2666983fcddd70fcb1e66e74",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "03f3e38d581c4c2c700d42092e62adc2ebb6ae0f21c97ea6ec196e48c08fc77c",
+    "robots.txt": "aacf4bd006c4f10d36d989813a8ef51a7f97ee0bceead7da440db927f57843c3",
+    "c551dd3838360bd77b236cba4cee9fff.txt": "97f7845c882a73259978873ba73a021bce540eaf12339a98243324ad626a1c92"
+  },
+  "revision": "6e794af80f9686e9633e13e94341fa0c792f1e97d762ef64250cc1b366446343"
+}
